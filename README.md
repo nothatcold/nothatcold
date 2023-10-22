@@ -9,6 +9,7 @@ Currently working with geoprocessing and data analysis, but enthusiastically lea
 </div>
 <br>
 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nothatcold&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--REDES SOCIAIS-->
