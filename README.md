@@ -1,10 +1,11 @@
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0x300000&height=180&section=header&text=Vera+Magalhães&fontSize=30&fontcolor=fff&animation=twinkling&fontAlignY=35"/>-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1572b6&height=180&section=header&text=Vera+Magalhães&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-
+## Hey, I'm Vera Magalhães! 👋
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nothatcold&show_icons=true&count_private=true&hide_border=true&title_color=1572b6&icon_color=1572b6&text_color=c9d1d9&bg_color=0d1117" alt="Vera Magalhães github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothatcold&layout=compact&hide_border=true&title_color=1572b6&text_color=1572b6&bg_color=0d1117" />
+</div>
+
+<div align="center"> 
+Currently working with geoprocessing and spatial analysis of data, but enthusiastically learning whatever comes my way.
 </div>
 
 
@@ -22,7 +23,7 @@
 
   
 
-### Habilidades Principais:
+### Main Skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=007396&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
