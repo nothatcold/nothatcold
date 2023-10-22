@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center"> 
-Currently working with geoprocessing and spatial analysis of data, but enthusiastically learning whatever comes my way.
+Currently working with geoprocessing and data analysis, but enthusiastically learning whatever comes my way.
 </div>
 <br>
 
