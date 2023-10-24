@@ -12,17 +12,7 @@ Currently working with geoprocessing and data analysis, but enthusiastically lea
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nothatcold&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true&theme=react" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nothatcold&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true&theme=minimal" />
-  <img alt="Ashutosh's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nothatcold&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true&theme=react" />
-</picture>
+![Snake animation](https://github.com/nothatcold/nothatcold/blob/output/github-contribution-grid-snake.svg)
 
 <!--REDES SOCIAIS-->
 <div align="center">  
@@ -30,6 +20,12 @@ Currently working with geoprocessing and data analysis, but enthusiastically lea
   <a href = "mailto:vlmsouza99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vlmsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+    
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="(https://github.com/nothatcold/nothatcold/blob/output/github-contribution-grid-snake.svg)" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
     
 </div>
