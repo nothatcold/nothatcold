@@ -12,7 +12,12 @@ Currently working with geoprocessing and data analysis, but enthusiastically lea
 
 <br>
 
-![Snake animation](https://github.com/nothatcold/nothatcold/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nothatcold/nothatcold/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nothatcold/nothatcold/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
+
 
 <!--REDES SOCIAIS-->
 <div align="center">  
