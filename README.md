@@ -82,9 +82,9 @@ Currently working with geoprocessing and data analysis, but enthusiastically lea
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-microsoft-office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-microsoft_office-FFFFFF?style=for-the-badge&logo=microsoft-office&logoColor=000000&labelColor=FFFFFF" />
-  <img alt="microsoft-office" src="https://img.shields.io/badge/-microsoft-office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" />
+  <img alt="microsoft office" src="https://img.shields.io/badge/-microsoft-office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" />
 </picture>
 
 
