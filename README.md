@@ -1,7 +1,7 @@
 ## Hey, I'm Vera Magalhães! 👋
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nothatcold&show_icons=true&count_private=true&hide_border=true&title_color=1572b6&icon_color=1572b6&text_color=c9d1d9&bg_color=0d1117" alt="Vera Magalhães github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothatcold&layout=compact&hide_border=true&title_color=1572b6&text_color=1572b6&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nothatcold&show_icons=true&count_private=true&hide_border=true&title_color=1572b6&icon_color=1572b6&text_color=c9d1d9&theme=transparent" alt="Vera Magalhães github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothatcold&layout=compact&hide_border=true&title_color=1572b6&text_color=1572b6&theme=transparent" />
 </div>
 <br>
 <div align="center"> 
@@ -10,7 +10,7 @@ Currently working with geoprocessing and data analysis, but enthusiastically lea
 <br>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nothatcold&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nothatcold&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--REDES SOCIAIS-->
 <div align="center">  
