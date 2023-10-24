@@ -64,7 +64,7 @@ Currently working with geoprocessing and data analysis, but enthusiastically lea
 ### Tools:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=FFFFFF" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" />
 </picture>
@@ -82,8 +82,8 @@ Currently working with geoprocessing and data analysis, but enthusiastically lea
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-microsoft_office-FFFFFF?style=for-the-badge&logo=microsoft-office&logoColor=000000&labelColor=FFFFFF" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=ff5c29&labelColor=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-microsoft_office-FFFFFF?style=for-the-badge&logo=microsoft-office&logoColor=ff5c29&labelColor=FFFFFF" />
   <img alt="microsoft office" src="https://img.shields.io/badge/-microsoft-office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" />
 </picture>
 
@@ -109,8 +109,8 @@ Currently working with geoprocessing and data analysis, but enthusiastically lea
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-windows-FFFFFF?style=for-the-badge&logo=windows&logoColor=007ACC&labelColor=FFFFFF" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-windows-0D1117?style=for-the-badge&logo=windows&logoColor=0cbeec&labelColor=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-windows-FFFFFF?style=for-the-badge&logo=windows&logoColor=0cbeec&labelColor=FFFFFF" />
   <img alt="windows" src="https://img.shields.io/badge/-windows-0D1117?style=for-the-badge&logo=windows&logo=windows&labelColor=0D1117" />
 </picture>
   
