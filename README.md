@@ -21,11 +21,6 @@ Currently working with geoprocessing and data analysis, but enthusiastically lea
   <a href="https://www.linkedin.com/in/vlmsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
     
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="(https://github.com/nothatcold/nothatcold/blob/output/github-contribution-grid-snake.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
     
 </div>
