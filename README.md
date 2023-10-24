@@ -3,14 +3,26 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nothatcold&show_icons=true&count_private=true&hide_border=true&title_color=1572b6&icon_color=1572b6&text_color=c9d1d9&theme=transparent" alt="Vera Magalhães github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothatcold&layout=compact&hide_border=true&title_color=1572b6&text_color=1572b6&theme=transparent" />
 </div>
+
 <br>
+
 <div align="center"> 
 Currently working with geoprocessing and data analysis, but enthusiastically learning whatever comes my way.
 </div>
+
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nothatcold&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nothatcold&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true&theme=react" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nothatcold&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true&theme=minimal" />
+  <img alt="Ashutosh's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nothatcold&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true&theme=react" />
+</picture>
 
 <!--REDES SOCIAIS-->
 <div align="center">  
